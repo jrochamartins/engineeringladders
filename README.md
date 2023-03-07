@@ -4,24 +4,24 @@ Este framework permite que os líderes de engenharia de software tenham conversa
 
 São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
-##### *Nota*
+#### *Nota*
 > *Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.*
 
 <picture>  
-  <img alt="Template Chart" src="charts/template.png">
+  <img alt="Template Chart" src="./charts/template.png">
 </picture>
 
 # Carreiras
 
-* [**Software Developer**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
+* [**Desenvolvedor**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
 
-| Classe | [Software Developer](Developer.md) |
+| Classe | [Desenvolvedor](Developer.md) |
 | :---: | :---: |
-| 13 | [Software Developer](Developer.md#d1---developer-1) |
-| 14 | [Software Developer I](Developer.md#d2---developer-2) |
-| 15 | [Software Developer II](Developer.md#d3---developer-3) |
-| 16 | [Software Developer III](Developer.md#d4---developer-4) |
-| 17 | [Software Developer Specialist](Developer.md#d5---developer-5) |
+| 13 | [Software Developer](Developer.md#software-developer) |
+| 14 | [Software Developer I](Developer.md#software-developer-i) |
+| 15 | [Software Developer II](Developer.md#software-developer-ii) |
+| 16 | [Software Developer III](Developer.md#software-developer-iii) |
+| 17 | [Software Developer Specialist](Developer.md#software-developer-specialist) |
 
 # Eixos
 
@@ -109,4 +109,4 @@ Exemplos específicos de comportamento requerem conhecimento sobre a forma como 
 
 # Outras páginas
 
-* [**Software Developer**](Developer.md)
+* [**Desenvolvedor**](Developer.md)
