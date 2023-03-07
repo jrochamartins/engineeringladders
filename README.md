@@ -1,8 +1,8 @@
 # Carreira de engenharia
 
-**Este documento e toda sua estrutura não representam um documento oficial do contratante do mantenedor do repositório e destina-se somente a uso pessoal.**
+**Esta estrutura não representam um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.**
 
-O framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
+Este framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
 Esse framework foi traduzido da estrutura original em www.engineeringladders.com e adaptado para um cotidiano particular.
 
@@ -113,4 +113,3 @@ Exemplos específicos de comportamento requerem conhecimento sobre a forma como 
 # Outras páginas
 
 * [**Software Developer**](Developer.md)
-* [**Engineering Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
