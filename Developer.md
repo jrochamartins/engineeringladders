@@ -13,7 +13,7 @@ Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de
 ## Software Developer
 
 <picture>
-  <img alt="Developer 1" src="/charts/software-developer-13.png">
+  <img alt="Developer 1" src="./charts/software-developer-13.png">
 </picture>
 
 * **Adota**: aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
