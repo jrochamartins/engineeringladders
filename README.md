@@ -1,6 +1,6 @@
 # Sobre
 
-**Este documento e toda sua estrutura não representam um documento oficial da contratatante do mantenedor do repositório e destina-se somente a uso pessoal.**
+**Este documento e toda sua estrutura não representam um documento oficial do contratante do mantenedor do repositório e destina-se somente a uso pessoal.**
 
 O framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
