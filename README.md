@@ -7,8 +7,7 @@ São usados gráficos de radar para representar visualmente as diferentes perspe
 ##### *Nota*
 > *Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.*
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="charts/template.png">
+<picture>  
   <img alt="Template Chart" src="charts/template.png">
 </picture>
 

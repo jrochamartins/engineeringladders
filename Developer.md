@@ -1,30 +1,26 @@
-# Developer
+# Software Developer
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 1 | No | [D1 - Developer 1](#d1---developer-1) |
-| 2 | No | [D2 - Developer 2](#d2---developer-2) |
-| 3 | No | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
+| Classe | Posição |
+| :---: | :---: |
+| 13 | [Software Developer](#software-developer) |
+| 14 | [D2 - Developer 2](#d2---developer-2) |
+| 15 | [D3 - Developer 3](#d3---developer-3) |
+| 16 | [D4 - Developer 4](#d4---developer-4) |
+| 17 | [D5 - Developer 5](#d5---developer-5) |
 
-## D1 - Developer 1
+## Software Developer
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
-  <img alt="Developer 1" src="/charts/developer-1.png">
+  <img alt="Developer 1" src="/charts/software-developer-13.png">
 </picture>
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
-* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-* **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to production
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **Adota**: aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+* **Melhora**: implementa com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+* **Aprende**: aprende rapidamente com os outros e avança consistentemente quando necessário
+* **Segue**: segue os processos da equipe, entregando um fluxo consistente de funcionalidades para a produção
+* **Sistema**: causa impacto em um ou mais subsistemas
 
 ## D2 - Developer 2
 
