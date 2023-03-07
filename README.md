@@ -5,6 +5,7 @@ Este framework permite que os líderes de engenharia de software tenham conversa
 
 ##### Nota
 > **Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.**
+
 ---
 São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
