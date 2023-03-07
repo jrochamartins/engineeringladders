@@ -8,7 +8,6 @@ São usados gráficos de radar para representar visualmente as diferentes perspe
 > *Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="charts/template.png">
   <img alt="Template Chart" src="charts/template.png">
 </picture>
@@ -78,7 +77,7 @@ Continue lendo para entender melhor cada nível.
 
 ## Influência
 
-1. **Subsistema**: causa impacto em um ou mais subsistemas
+1. **Sistema**: causa impacto em um ou mais subsistemas
 2. **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 3. **Equipes Múltiplas**: causa impacto não apenas em sua equipe, mas também em outras equipes
 4. **Empresa**: causa impacto em toda a organização de tecnologia
