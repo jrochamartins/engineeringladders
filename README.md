@@ -1,11 +1,14 @@
 # Carreira de engenharia
 
-**Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.**
-
 Este framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
-Esse framework foi traduzido da estrutura original em www.engineeringladders.com e adaptado para um cotidiano particular.
 
+###### Nota
+> Esse framework foi adaptado para um cotidiano particular e obtido da estrutura original em [**www.engineeringladders.com**](https://www.engineeringladders.com/).
+>
+> **Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.**
+
+---
 São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
 <picture>
