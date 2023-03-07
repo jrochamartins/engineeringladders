@@ -19,7 +19,7 @@ São usados gráficos de radar para representar visualmente as diferentes perspect
 * [**Software Developer**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
 
 | Nível | [Software Developer](Developer.md) |
-| :---: | :---: | :---: | :---: |  :---: |
+| :---: | :---: |
 | 1 | [Software Developer](Developer.md#d1---developer-1) |
 | 2 | [Software Developer I](Developer.md#d2---developer-2) |
 | 3 | [Software Developer II](Developer.md#d3---developer-3) |
