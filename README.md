@@ -1,10 +1,12 @@
-# Introduction
+# Sobre
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+**Este documento e toda sua estrutura não representam um documento oficial da contratatante do mantenedor do repositório e destina-se somente a uso pessoal.**
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+O framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
-The framework relies heavily on radar charts to visually represent the different perspectives and expectations of a given position:
+Esse framework foi traduzido da estrutura original em www.engineeringladders.com e adaptado para um cotidiano particular.
+
+São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
@@ -12,37 +14,26 @@ The framework relies heavily on radar charts to visually represent the different
   <img alt="Template Chart" src="charts/template.png">
 </picture>
 
-# Career Ladders
+# Carreiras
 
-The framework has 4 different ladders:
+* [**Software Developer**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that span multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+| Nível | [Software Developer](Developer.md) |
+| :---: | :---: | :---: | :---: |  :---: |
+| 1 | [Software Developer](Developer.md#d1---developer-1) |
+| 2 | [Software Developer I](Developer.md#d2---developer-2) |
+| 3 | [Software Developer II](Developer.md#d3---developer-3) |
+| 4 | [Software Developer III](Developer.md#d4---developer-4) |
+| 5 | [Software Developer Specialist](Developer.md#d5---developer-5) |
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+# Eixos
 
-| Level | Senior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | No | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | No | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | No | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Yes | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Yes | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Yes | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Yes | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
-
-(click on position name for more details)
-
-# Axes
-
-The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+O gráfico mostrado acima tem os seguintes 5 eixos:
+* **Tecnologia**: conhecimento da pilha de tecnologia e ferramentas.
+* **Sistema**: nível de 'ownership' no(s) sitema(s) e produto(s).
+* **Pessoas**: Relacionamento com o time e demais colaboradores.
+* **Processos**: Nível de engajamento com o processo de desenvolvimento.
+* **Influência**: Escopo de influência da posição.
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
