@@ -2,12 +2,10 @@
 
 Este framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
-
-##### Nota
-> **Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.**
-
----
 São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
+
+##### *Nota*
+> *Esta estrutura NÃO representa um documento oficial do contratante do mantenedor e destina-se somente a uso pessoal.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
