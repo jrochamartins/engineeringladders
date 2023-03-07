@@ -1,12 +1,12 @@
 # Sobre
 
-**Este documento e toda sua estrutura não representam um documento oficial do contratante do mantenedor do repositório e destina-se somente a uso pessoal.**
+**Este documento e toda sua estrutura nÃ£o representam um documento oficial do contratante do mantenedor do repositÃ³rio e destina-se somente a uso pessoal.**
 
-O framework permite que os líderes de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
+O framework permite que os lÃ­deres de engenharia de software tenham conversas significativas com seus liderados diretos sobre as expectativas de cada posiÃ§Ã£o e como planejar o prÃ³ximo nÃ­vel em sua carreira.
 
 Esse framework foi traduzido da estrutura original em www.engineeringladders.com e adaptado para um cotidiano particular.
 
-São usados gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
+SÃ£o usados grÃ¡ficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posiÃ§Ã£o:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
@@ -16,9 +16,9 @@ São usados gráficos de radar para representar visualmente as diferentes perspect
 
 # Carreiras
 
-* [**Software Developer**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
+* [**Software Developer**](Developer.md): Papel tambÃ©m conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nÃ­vel de conhecimento tÃ©cnico.
 
-| Nível | [Software Developer](Developer.md) |
+| NÃ­vel | [Software Developer](Developer.md) |
 | :---: | :---: |
 | 1 | [Software Developer](Developer.md#d1---developer-1) |
 | 2 | [Software Developer I](Developer.md#d2---developer-2) |
@@ -28,12 +28,12 @@ São usados gráficos de radar para representar visualmente as diferentes perspect
 
 # Eixos
 
-O gráfico mostrado acima tem os seguintes 5 eixos:
+O grÃ¡fico mostrado acima tem os seguintes 5 eixos:
 * **Tecnologia**: conhecimento da pilha de tecnologia e ferramentas.
-* **Sistema**: nível de 'ownership' no(s) sitema(s) e produto(s).
+* **Sistema**: nÃ­vel de 'ownership' no(s) sitema(s) e produto(s).
 * **Pessoas**: Relacionamento com o time e demais colaboradores.
-* **Processos**: Nível de engajamento com o processo de desenvolvimento.
-* **Influência**: Escopo de influência da posição.
+* **Processos**: NÃ­vel de engajamento com o processo de desenvolvimento.
+* **InfluÃªncia**: Escopo de influÃªncia da posiÃ§Ã£o.
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
