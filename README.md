@@ -18,13 +18,13 @@ São usados gráficos de radar para representar visualmente as diferentes perspe
 
 * [**Software Developer**](Developer.md): Papel também conhecido como pessoa desenvolvedora, programador ou engenheiro de software, requer um profundo nível de conhecimento técnico.
 
-| Nível | [Software Developer](Developer.md) |
+| Classe | [Software Developer](Developer.md) |
 | :---: | :---: |
-| 1 | [Software Developer](Developer.md#d1---developer-1) |
-| 2 | [Software Developer I](Developer.md#d2---developer-2) |
-| 3 | [Software Developer II](Developer.md#d3---developer-3) |
-| 4 | [Software Developer III](Developer.md#d4---developer-4) |
-| 5 | [Software Developer Specialist](Developer.md#d5---developer-5) |
+| 13 | [Software Developer](Developer.md#d1---developer-1) |
+| 14 | [Software Developer I](Developer.md#d2---developer-2) |
+| 15 | [Software Developer II](Developer.md#d3---developer-3) |
+| 16 | [Software Developer III](Developer.md#d4---developer-4) |
+| 17 | [Software Developer Specialist](Developer.md#d5---developer-5) |
 
 # Eixos
 
@@ -35,94 +35,82 @@ O gráfico mostrado acima tem os seguintes 5 eixos:
 * **Processos**: Nível de engajamento com o processo de desenvolvimento.
 * **Influência**: Escopo de influência da posição.
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+O eixo **influência** pode ser visto como uma *dimensão diferente*, pois é ortogonal e se aplica a todos os outros eixos.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+O eixo **sistema** pode ser visto como o *domínio* que o colaborador possui em relação aos sistemas seja na capacidade de garantir a evolução corroborando a visão de produto.
 
-Keep reading to better understand each level.
+Cada eixo tem 5 níveis diferentes de desempenho. É importante destacar que todo nível inclui o(s) anterior(es). Por exemplo, alguém que, *evangeliza* tecnologia, *especializa*, logo, também *adota*.
 
-# Levels
+Continue lendo para entender melhor cada nível.
 
-## Technology
+# Níveis
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+## Tecnologia
 
-## System
+1. **Adota**: aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+2. **Especializa**: é a pessoa certa para uma ou mais tecnologias e toma iniciativa para aprender novas
+3. **Evangeliza**: pesquisa, cria provas de conceito e apresenta novas tecnologias para a equipe
+4. **Masteriza**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+5. **Cria**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
 
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+## Sistema
 
-## People
+1. **Melhora**: implementa com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+2. **Projeta**: projeta e implementa recursos de tamanho médio a grande, reduzindo a dívida técnica do sistema
+3. **Domina**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+4. **Evolui**: evolui a arquitetura para dar suporte a requisitos futuros e define seus SLAs
+5. **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 
-1. **Learns**: quickly learns from others and consistently steps up when it is required
-2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+## Pessoas
 
-## Process
+1. **Aprende**: aprende rapidamente com os outros e avança consistentemente quando necessário
+2. **Suporta**: apóia proativamente outros membros da equipe e os ajuda a ter sucesso
+3. **Mentora**: orienta outras pessoas para acelerar o crescimento e as incentiva a participar
+4. **Coordena**: coordena os membros da equipe, fornecendo feedback e moderando as discussões
+5. **Gerencia**: gerencia as expectativas, o desempenho e o nível de satisfação dos membros da equipe
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-3. **Challenges**: challenges the team processes, looking for ways to improve them
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+## Processos
 
-## Influence
+1. **Segue**: segue os processos da equipe, entregando um fluxo consistente de funcionalidades para a produção
+2. **Aplica**: aplica os processos da equipe, certificando-se de que todos entendam os benefícios e compensações
+3. **Desafia**: desafia os processos da equipe, buscando formas de melhorá-los
+4. **Ajusta**: facilita o ajuste dos processos da equipe, ouvindo feedback e orientando a equipe nas mudanças
+5. **Define**: define os processos adequados ao nível de maturidade da equipe, equilibrando agilidade e disciplina
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+## Influência
+
+1. **Subsistema**: causa impacto em um ou mais subsistemas
+2. **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
+3. **Equipes Múltiplas**: causa impacto não apenas em sua equipe, mas também em outras equipes
+4. **Empresa**: causa impacto em toda a organização de tecnologia
+5. **Comunidade**: causa impacto na comunidade de tecnologia
 
 # FAQs
 
-**What if some of the people don't meet all the points?**
+**E se algumas pessoas não atenderem a todos os pontos?**
 
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
+Isso é muito normal, as pessoas geralmente são mais fortes em algumas áreas e mais fracas em outras. A estrutura não deve ser usada como uma lista de verificação para promover as pessoas, mas sim como orientação para conversas significativas sobre carreira.
 
-**What if my organization's career ladder is different?**
+**E se o plano de carreira da empresa for diferente?**
 
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
+A estrutura é de código aberto, você tem a oportunidade de adaptá-la ou melhor ainda, apoiar na evolução desta a partir de pull requests.
 
-**When is a person ready to move to the next level?**
+**Quando uma pessoa está pronta para passar para o próximo nível?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+Geralmente sugiro que uma pessoa tenha um desempenho do próximo nível *consistentemente por um ciclo de carreira*, com isso evidencias são coletadas antes de uma promoção ser formalizada.
 
-**How do I collect evidence to support the discussion with my direct reports?**
+**Como faço para coletar evidências para apoiar a discussão com meus subordinados diretos?**
 
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
-* 1:1 conversations
-* Feedback from peers and other teams
-* Self-evaluation
+Equipes diferentes coletam evidências de maneiras diferentes. Uma abordagem recomendada é usar uma combinação de:
+* Conversas de 1:1
+* Feedback de colegas e outras equipes
+* Autoavaliação
 
-**Could the framework provide more specific examples of behavior to support each level?**
+**O framework poderia fornecer exemplos mais específicos de comportamento para dar suporte a cada nível?**
 
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
+Exemplos específicos de comportamento requerem conhecimento sobre a forma como a equipe trabalha, a arquitetura do sistema e sua pilha de tecnologia. Recomenda-se permitir que cada equipe defina seus próprios exemplos.
 
-**Why does the framework stop at level 7?**
+# Outras páginas
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
-
-**Do you have any additional resources about the topic?**
-
-* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
-
-* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
-
-# Other Pages
-
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Developer**](Developer.md)
+* [**Engineering Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
