@@ -54,7 +54,7 @@ Continue lendo para entender melhor cada nível.
 
 1. **Melhora**: implementa com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
 2. **Projeta**: projeta e implementa recursos de tamanho médio a grande, reduzindo a dívida técnica do sistema
-3. **Domina**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+3. **Domina**: possui a operação de produção e monitoramento do(s) sistema(s) e está ciente de seus SLAs
 4. **Evolui**: evolui a arquitetura para dar suporte a requisitos futuros e define seus SLAs
 5. **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 
